@@ -1,0 +1,6 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+target_sources(dg
+	PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/Basis.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Quad.cpp
+)

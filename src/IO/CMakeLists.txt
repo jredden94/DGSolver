@@ -1,0 +1,10 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+target_sources(dg
+	PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/GridReader.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/GridReader2D.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/SU2Reader.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/MshReader.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/VTK.cpp
+)

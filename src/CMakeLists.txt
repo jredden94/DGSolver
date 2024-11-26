@@ -1,0 +1,10 @@
+add_executable(dg main.cpp)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+add_subdirectory(Grid)
+add_subdirectory(Common)
+add_subdirectory(IO)
+add_subdirectory(Numerics)
+add_subdirectory(Solver)
+add_subdirectory(LinAlg)
+add_subdirectory(Basis)

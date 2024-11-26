@@ -1,0 +1,10 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+target_sources(dg
+	PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/Grid.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Edge.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Node.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Bound.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Elm.cpp
+)

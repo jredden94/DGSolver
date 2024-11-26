@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/main.cpp.o -c /home/justin/DGSolver/src/main.cpp",
+  "file": "/home/justin/DGSolver/src/main.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Grid/Grid.cpp.o -c /home/justin/DGSolver/src/Grid/Grid.cpp",
+  "file": "/home/justin/DGSolver/src/Grid/Grid.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Grid/Edge.cpp.o -c /home/justin/DGSolver/src/Grid/Edge.cpp",
+  "file": "/home/justin/DGSolver/src/Grid/Edge.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Grid/Node.cpp.o -c /home/justin/DGSolver/src/Grid/Node.cpp",
+  "file": "/home/justin/DGSolver/src/Grid/Node.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Grid/Bound.cpp.o -c /home/justin/DGSolver/src/Grid/Bound.cpp",
+  "file": "/home/justin/DGSolver/src/Grid/Bound.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Grid/Elm.cpp.o -c /home/justin/DGSolver/src/Grid/Elm.cpp",
+  "file": "/home/justin/DGSolver/src/Grid/Elm.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Common/Config.cpp.o -c /home/justin/DGSolver/src/Common/Config.cpp",
+  "file": "/home/justin/DGSolver/src/Common/Config.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/IO/GridReader.cpp.o -c /home/justin/DGSolver/src/IO/GridReader.cpp",
+  "file": "/home/justin/DGSolver/src/IO/GridReader.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/IO/GridReader2D.cpp.o -c /home/justin/DGSolver/src/IO/GridReader2D.cpp",
+  "file": "/home/justin/DGSolver/src/IO/GridReader2D.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/IO/SU2Reader.cpp.o -c /home/justin/DGSolver/src/IO/SU2Reader.cpp",
+  "file": "/home/justin/DGSolver/src/IO/SU2Reader.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/IO/MshReader.cpp.o -c /home/justin/DGSolver/src/IO/MshReader.cpp",
+  "file": "/home/justin/DGSolver/src/IO/MshReader.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/IO/VTK.cpp.o -c /home/justin/DGSolver/src/IO/VTK.cpp",
+  "file": "/home/justin/DGSolver/src/IO/VTK.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Numerics/Convection/Convection.cpp.o -c /home/justin/DGSolver/src/Numerics/Convection/Convection.cpp",
+  "file": "/home/justin/DGSolver/src/Numerics/Convection/Convection.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Numerics/Convection/HLLC.cpp.o -c /home/justin/DGSolver/src/Numerics/Convection/HLLC.cpp",
+  "file": "/home/justin/DGSolver/src/Numerics/Convection/HLLC.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Numerics/Convection/Roe.cpp.o -c /home/justin/DGSolver/src/Numerics/Convection/Roe.cpp",
+  "file": "/home/justin/DGSolver/src/Numerics/Convection/Roe.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Numerics/Viscous/Viscous.cpp.o -c /home/justin/DGSolver/src/Numerics/Viscous/Viscous.cpp",
+  "file": "/home/justin/DGSolver/src/Numerics/Viscous/Viscous.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Solver/Solver.cpp.o -c /home/justin/DGSolver/src/Solver/Solver.cpp",
+  "file": "/home/justin/DGSolver/src/Solver/Solver.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Solver/Euler.cpp.o -c /home/justin/DGSolver/src/Solver/Euler.cpp",
+  "file": "/home/justin/DGSolver/src/Solver/Euler.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Solver/EulerDG.cpp.o -c /home/justin/DGSolver/src/Solver/EulerDG.cpp",
+  "file": "/home/justin/DGSolver/src/Solver/EulerDG.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/LinAlg/BLAS.cpp.o -c /home/justin/DGSolver/src/LinAlg/BLAS.cpp",
+  "file": "/home/justin/DGSolver/src/LinAlg/BLAS.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/LinAlg/SolMatrix.cpp.o -c /home/justin/DGSolver/src/LinAlg/SolMatrix.cpp",
+  "file": "/home/justin/DGSolver/src/LinAlg/SolMatrix.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/LinAlg/SolVector.cpp.o -c /home/justin/DGSolver/src/LinAlg/SolVector.cpp",
+  "file": "/home/justin/DGSolver/src/LinAlg/SolVector.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Basis/Basis.cpp.o -c /home/justin/DGSolver/src/Basis/Basis.cpp",
+  "file": "/home/justin/DGSolver/src/Basis/Basis.cpp"
+},
+{
+  "directory": "/home/justin/DGSolver/build/src",
+  "command": "/usr/bin/c++    -O3 -funroll-loops -o CMakeFiles/dg.dir/Basis/Quad.cpp.o -c /home/justin/DGSolver/src/Basis/Quad.cpp",
+  "file": "/home/justin/DGSolver/src/Basis/Quad.cpp"
+}
+]
